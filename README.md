@@ -6,7 +6,8 @@
   <img src="https://via.placeholder.com/150" alt="John Aluma" style="border-radius: 50%;">
   <br/><br/>
   <h2>🌟 Featured Projects</h2>
-  
+
+
   <div>
     <h3>Data Analysis and Visualization</h3>
     <p>Utilizing R for in-depth statistical analysis and visualization.</p>
