@@ -6,8 +6,7 @@
   <img src="https://via.placeholder.com/150" alt="John Aluma" style="border-radius: 50%;">
   <br/><br/>
   <h2>🌟 Featured Projects</h2>
-
-
+  
   <div>
     <h3>Data Analysis and Visualization</h3>
     <p>Utilizing R for in-depth statistical analysis and visualization.</p>
@@ -60,6 +59,10 @@
       - [Python Notebook](https://drive.google.com/drive/folders/your_stats_analysis_link_here)</li>
   </ul>
 
+  <h2>📈 Current Project: The Evolving Financial Risk of Sports Betting Among Youths in Kenya</h2>
+  <p>An analysis of the financial risks associated with sports betting among Kenyan youths.</p>
+  <p>📄 [Project Report](https://docs.google.com/document/d/1fx5VScNpT540RWjKP1v6y3X1U_nRVvBy/edit?usp=drive_link&ouid=106832665241720292515&rtpof=true&sd=true)</p>
+  
   <br/><br/>
   <h2>🤝 Let's Connect</h2>
   <p>Reach out to explore collaboration opportunities or discuss data-driven insights!</p>
