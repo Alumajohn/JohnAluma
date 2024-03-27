@@ -1,13 +1,15 @@
 <div align="center">
   <h1>📊 John Aluma</h1>
   <img src="https://avatars.githubusercontent.com/u/86710405?s=400&u=11c74637b7356eb97aa49b20a2393649f06b6c92&v=4" alt="John Aluma" style="border-radius: 50%;">
-  <div>
+  
+  <div class="bio">
     <h2>About Me</h2>
     <p>Greetings! I am John Aluma, a dedicated statistician, data analyst, and Python enthusiast.</p>
     <p>My passion lies in uncovering insights hidden within data and transforming them into actionable intelligence.</p>
     <p>Join me on a journey through the vast landscapes of data as we explore, analyze, and derive insights that drive informed decision-making.</p>
   </div>
-  <div>
+  
+  <div class="expertise">
     <h2>Expertise</h2>
     <p>With a wealth of experience in utilizing various statistical tools and programming languages, I specialize in analyzing complex datasets.</p>
     <p>My expertise enables me to derive actionable insights that inform strategic decision-making processes.</p>
@@ -57,7 +59,6 @@
   <p>As an active member of SATUMS, I have held leadership roles including Chairman, where I fostered a collaborative environment for statistical enthusiasts to exchange ideas and develop their skills. I also obtained certificates as a trainer in Advanced Excel and R, empowering me to mentor and guide fellow students in mastering these essential tools for data analysis.</p>
 </div>
 
-  
   <br/><br/>
   <h2>📝 Additional Skills</h2>
   <ul>
