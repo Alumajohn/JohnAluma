@@ -125,8 +125,15 @@
   <p>Discover the depth of my professional journey and explore my diverse skill set in detail. My CV encapsulates my academic achievements, hands-on experience, and passion for data-driven problem-solving. Dive into a comprehensive overview of my background and delve into the projects, certifications, and accolades that showcase my dedication to excellence. Let's connect and explore how my expertise can add value to your team!</p>
   <p>Check out my CV to learn more about my background and experiences: <a href="https://drive.google.com/file/d/11y78oyTSRuU3CAG6sBhkCEqCOp4UHSnU/view?usp=drive_link">View CV</a></p>
 
-  <br/><br/>
+ <div class="section">
   <h2>🤝 Let's Connect</h2>
   <p>Reach out to explore collaboration opportunities or discuss data-driven insights!</p>
-  <a href="https://www.linkedin.com/in/john-aluma-009234245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/john-aluma-009234245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <br><br>
+  <a href="https://wa.me/254759797998">
+    <button style="background-color: #25D366; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Contact on WhatsApp</button>
+  </a>
+</div>
 </div>
